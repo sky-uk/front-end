@@ -1,6 +1,6 @@
 ### The Basics - [Joe Bell](https://github.com/joebell93) (Online Service)
 
-Presentation slides: [View on Google Slides](https://docs.google.com/a/joebell.co.uk/presentation/d/17610-U-Go7lVWDeDYqHlgJ2AkFEsH6sMADlO1h6fn4A/edit?usp=sharing)
+Presentation slides: [View on Google Slides](https://docs.google.com/presentation/d/17610-U-Go7lVWDeDYqHlgJ2AkFEsH6sMADlO1h6fn4A/edit?usp=sharing)
 
 #### Let's build
 Create a new pen on [Codepen](http://codepen.io/pen/?editors=110) and attempt the following:
