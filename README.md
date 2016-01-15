@@ -1,6 +1,8 @@
 # leeds-front-end
 
-## 1. The Basics - 13/01/2015
+## 1. The Basics
+
+13/01/2015
 
 ### The Basics - [Joe Bell](https://github.com/joebell93) (Online Service)
 _Let’s code some basic CSS (bring your laptops)._
