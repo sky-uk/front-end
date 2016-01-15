@@ -2,7 +2,7 @@
 
 ## 1. The Basics
 
-_13/01/2015_
+13/01/2015
 
 ### The Basics - [Joe Bell](https://github.com/joebell93) (Online Service)
 Let’s code some basic HTML & CSS (bring your laptops).
