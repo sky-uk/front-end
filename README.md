@@ -1,4 +1,4 @@
-# leeds-front-end
+# front-end
 
 ## 1. The Basics
 
