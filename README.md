@@ -11,6 +11,6 @@
 
 ## 1. 13th January 2016
 
-**[The Basics](https://github.com/sky-uk/leeds-front-end/tree/master/1.%20The%20Basics/The%20Basics)** - [Joe Bell](https://github.com/joebell93) (Online Service)
+**[The Basics](https://github.com/sky-uk/front-end/tree/master/1.%2013th%20January%202016/The%20Basics)** - [Joe Bell](https://github.com/joebell93) (Online Service)
 
 **[What is CSS?](https://github.com/sky-uk/front-end/blob/master/1.%2013th%20January%202016/What%20is%20CSS%3F/What%20is%20CSS.pdf)** - Matthew Gallagher (Sky Sports)
